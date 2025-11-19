@@ -1,0 +1,3602 @@
+[
+  [
+    {
+      "frame": 0,
+      "semantic_id": 0,
+      "x_min": 725,
+      "y_min": 461,
+      "x_max": 820,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 0,
+      "semantic_id": 1,
+      "x_min": 211,
+      "y_min": 466,
+      "x_max": 290,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 1,
+      "semantic_id": 0,
+      "x_min": 715,
+      "y_min": 461,
+      "x_max": 810,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 1,
+      "semantic_id": 1,
+      "x_min": 222,
+      "y_min": 465,
+      "x_max": 300,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 2,
+      "semantic_id": 0,
+      "x_min": 705,
+      "y_min": 461,
+      "x_max": 799,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 2,
+      "semantic_id": 1,
+      "x_min": 232,
+      "y_min": 465,
+      "x_max": 310,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 3,
+      "semantic_id": 0,
+      "x_min": 696,
+      "y_min": 461,
+      "x_max": 789,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 3,
+      "semantic_id": 1,
+      "x_min": 242,
+      "y_min": 466,
+      "x_max": 320,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 4,
+      "semantic_id": 0,
+      "x_min": 686,
+      "y_min": 461,
+      "x_max": 779,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 4,
+      "semantic_id": 1,
+      "x_min": 252,
+      "y_min": 466,
+      "x_max": 330,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 5,
+      "semantic_id": 0,
+      "x_min": 676,
+      "y_min": 461,
+      "x_max": 769,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 5,
+      "semantic_id": 1,
+      "x_min": 262,
+      "y_min": 466,
+      "x_max": 340,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 6,
+      "semantic_id": 0,
+      "x_min": 666,
+      "y_min": 461,
+      "x_max": 759,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 6,
+      "semantic_id": 1,
+      "x_min": 272,
+      "y_min": 466,
+      "x_max": 350,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 7,
+      "semantic_id": 0,
+      "x_min": 656,
+      "y_min": 461,
+      "x_max": 748,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 7,
+      "semantic_id": 1,
+      "x_min": 282,
+      "y_min": 466,
+      "x_max": 360,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 8,
+      "semantic_id": 0,
+      "x_min": 647,
+      "y_min": 461,
+      "x_max": 738,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 8,
+      "semantic_id": 1,
+      "x_min": 293,
+      "y_min": 466,
+      "x_max": 369,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 9,
+      "semantic_id": 0,
+      "x_min": 637,
+      "y_min": 461,
+      "x_max": 728,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 9,
+      "semantic_id": 1,
+      "x_min": 303,
+      "y_min": 466,
+      "x_max": 379,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 10,
+      "semantic_id": 0,
+      "x_min": 627,
+      "y_min": 461,
+      "x_max": 718,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 10,
+      "semantic_id": 1,
+      "x_min": 313,
+      "y_min": 466,
+      "x_max": 389,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 11,
+      "semantic_id": 0,
+      "x_min": 617,
+      "y_min": 461,
+      "x_max": 707,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 11,
+      "semantic_id": 1,
+      "x_min": 323,
+      "y_min": 466,
+      "x_max": 399,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 12,
+      "semantic_id": 0,
+      "x_min": 608,
+      "y_min": 461,
+      "x_max": 697,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 12,
+      "semantic_id": 1,
+      "x_min": 333,
+      "y_min": 466,
+      "x_max": 409,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 13,
+      "semantic_id": 0,
+      "x_min": 598,
+      "y_min": 460,
+      "x_max": 687,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 13,
+      "semantic_id": 1,
+      "x_min": 343,
+      "y_min": 466,
+      "x_max": 419,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 14,
+      "semantic_id": 0,
+      "x_min": 588,
+      "y_min": 460,
+      "x_max": 677,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 14,
+      "semantic_id": 1,
+      "x_min": 353,
+      "y_min": 466,
+      "x_max": 429,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 15,
+      "semantic_id": 0,
+      "x_min": 578,
+      "y_min": 461,
+      "x_max": 667,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 15,
+      "semantic_id": 1,
+      "x_min": 363,
+      "y_min": 466,
+      "x_max": 439,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 16,
+      "semantic_id": 0,
+      "x_min": 568,
+      "y_min": 461,
+      "x_max": 656,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 16,
+      "semantic_id": 1,
+      "x_min": 374,
+      "y_min": 466,
+      "x_max": 449,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 17,
+      "semantic_id": 0,
+      "x_min": 559,
+      "y_min": 461,
+      "x_max": 646,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 17,
+      "semantic_id": 1,
+      "x_min": 384,
+      "y_min": 465,
+      "x_max": 458,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 18,
+      "semantic_id": 0,
+      "x_min": 549,
+      "y_min": 461,
+      "x_max": 636,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 18,
+      "semantic_id": 1,
+      "x_min": 394,
+      "y_min": 465,
+      "x_max": 468,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 19,
+      "semantic_id": 0,
+      "x_min": 539,
+      "y_min": 461,
+      "x_max": 626,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 19,
+      "semantic_id": 1,
+      "x_min": 404,
+      "y_min": 466,
+      "x_max": 478,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 20,
+      "semantic_id": 0,
+      "x_min": 529,
+      "y_min": 461,
+      "x_max": 616,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 20,
+      "semantic_id": 1,
+      "x_min": 414,
+      "y_min": 466,
+      "x_max": 488,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 21,
+      "semantic_id": 0,
+      "x_min": 519,
+      "y_min": 461,
+      "x_max": 605,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 21,
+      "semantic_id": 1,
+      "x_min": 424,
+      "y_min": 466,
+      "x_max": 498,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 22,
+      "semantic_id": 0,
+      "x_min": 510,
+      "y_min": 461,
+      "x_max": 595,
+      "y_max": 563,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 22,
+      "semantic_id": 1,
+      "x_min": 434,
+      "y_min": 466,
+      "x_max": 508,
+      "y_max": 558,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 23,
+      "semantic_id": 0,
+      "x_min": 499,
+      "y_min": 461,
+      "x_max": 585,
+      "y_max": 563,
+      "occlusion_ratio": 0.10889999568462372
+    },
+    {
+      "frame": 23,
+      "semantic_id": 1,
+      "x_min": 444,
+      "y_min": 466,
+      "x_max": 518,
+      "y_max": 558,
+      "occlusion_ratio": 0.025299999862909317
+    }
+  ],
+  [
+    {
+      "frame": 24,
+      "semantic_id": 0,
+      "x_min": 503,
+      "y_min": 464,
+      "x_max": 586,
+      "y_max": 564,
+      "occlusion_ratio": 0.0608999989926815
+    },
+    {
+      "frame": 24,
+      "semantic_id": 1,
+      "x_min": 445,
+      "y_min": 465,
+      "x_max": 514,
+      "y_max": 554,
+      "occlusion_ratio": 0.007400000002235174
+    }
+  ],
+  [
+    {
+      "frame": 25,
+      "semantic_id": 0,
+      "x_min": 506,
+      "y_min": 469,
+      "x_max": 584,
+      "y_max": 564,
+      "occlusion_ratio": 0.016999999061226845
+    },
+    {
+      "frame": 25,
+      "semantic_id": 1,
+      "x_min": 445,
+      "y_min": 463,
+      "x_max": 512,
+      "y_max": 550,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 26,
+      "semantic_id": 0,
+      "x_min": 509,
+      "y_min": 475,
+      "x_max": 579,
+      "y_max": 563,
+      "occlusion_ratio": 0.00039999998989515007
+    },
+    {
+      "frame": 26,
+      "semantic_id": 1,
+      "x_min": 448,
+      "y_min": 463,
+      "x_max": 511,
+      "y_max": 546,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 27,
+      "semantic_id": 0,
+      "x_min": 513,
+      "y_min": 481,
+      "x_max": 573,
+      "y_max": 562,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 27,
+      "semantic_id": 1,
+      "x_min": 448,
+      "y_min": 461,
+      "x_max": 511,
+      "y_max": 544,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 28,
+      "semantic_id": 0,
+      "x_min": 510,
+      "y_min": 479,
+      "x_max": 577,
+      "y_max": 567,
+      "occlusion_ratio": 0.00839999970048666
+    },
+    {
+      "frame": 28,
+      "semantic_id": 1,
+      "x_min": 445,
+      "y_min": 457,
+      "x_max": 512,
+      "y_max": 543,
+      "occlusion_ratio": 0.018799999728798866
+    }
+  ],
+  [
+    {
+      "frame": 29,
+      "semantic_id": 0,
+      "x_min": 510,
+      "y_min": 480,
+      "x_max": 580,
+      "y_max": 570,
+      "occlusion_ratio": 0.0058999997563660145
+    },
+    {
+      "frame": 29,
+      "semantic_id": 1,
+      "x_min": 441,
+      "y_min": 453,
+      "x_max": 512,
+      "y_max": 543,
+      "occlusion_ratio": 0.01809999905526638
+    }
+  ],
+  [
+    {
+      "frame": 30,
+      "semantic_id": 0,
+      "x_min": 511,
+      "y_min": 482,
+      "x_max": 583,
+      "y_max": 573,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 30,
+      "semantic_id": 1,
+      "x_min": 437,
+      "y_min": 450,
+      "x_max": 511,
+      "y_max": 542,
+      "occlusion_ratio": 0.011799999512732029
+    }
+  ],
+  [
+    {
+      "frame": 31,
+      "semantic_id": 0,
+      "x_min": 512,
+      "y_min": 483,
+      "x_max": 587,
+      "y_max": 576,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 31,
+      "semantic_id": 1,
+      "x_min": 434,
+      "y_min": 447,
+      "x_max": 511,
+      "y_max": 541,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 32,
+      "semantic_id": 0,
+      "x_min": 513,
+      "y_min": 484,
+      "x_max": 590,
+      "y_max": 579,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 32,
+      "semantic_id": 1,
+      "x_min": 431,
+      "y_min": 444,
+      "x_max": 510,
+      "y_max": 540,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 33,
+      "semantic_id": 0,
+      "x_min": 514,
+      "y_min": 485,
+      "x_max": 593,
+      "y_max": 581,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 33,
+      "semantic_id": 1,
+      "x_min": 428,
+      "y_min": 441,
+      "x_max": 509,
+      "y_max": 539,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 34,
+      "semantic_id": 0,
+      "x_min": 515,
+      "y_min": 486,
+      "x_max": 596,
+      "y_max": 584,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 34,
+      "semantic_id": 1,
+      "x_min": 425,
+      "y_min": 438,
+      "x_max": 508,
+      "y_max": 538,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 35,
+      "semantic_id": 0,
+      "x_min": 517,
+      "y_min": 488,
+      "x_max": 598,
+      "y_max": 586,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 35,
+      "semantic_id": 1,
+      "x_min": 422,
+      "y_min": 435,
+      "x_max": 506,
+      "y_max": 536,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 36,
+      "semantic_id": 0,
+      "x_min": 518,
+      "y_min": 489,
+      "x_max": 601,
+      "y_max": 589,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 36,
+      "semantic_id": 1,
+      "x_min": 419,
+      "y_min": 433,
+      "x_max": 505,
+      "y_max": 535,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 37,
+      "semantic_id": 0,
+      "x_min": 519,
+      "y_min": 491,
+      "x_max": 604,
+      "y_max": 591,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 37,
+      "semantic_id": 1,
+      "x_min": 416,
+      "y_min": 430,
+      "x_max": 503,
+      "y_max": 533,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 38,
+      "semantic_id": 0,
+      "x_min": 521,
+      "y_min": 493,
+      "x_max": 606,
+      "y_max": 593,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 38,
+      "semantic_id": 1,
+      "x_min": 414,
+      "y_min": 428,
+      "x_max": 501,
+      "y_max": 531,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 39,
+      "semantic_id": 0,
+      "x_min": 523,
+      "y_min": 495,
+      "x_max": 609,
+      "y_max": 595,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 39,
+      "semantic_id": 1,
+      "x_min": 412,
+      "y_min": 426,
+      "x_max": 499,
+      "y_max": 529,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 40,
+      "semantic_id": 0,
+      "x_min": 525,
+      "y_min": 496,
+      "x_max": 611,
+      "y_max": 597,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 40,
+      "semantic_id": 1,
+      "x_min": 409,
+      "y_min": 424,
+      "x_max": 497,
+      "y_max": 527,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 41,
+      "semantic_id": 0,
+      "x_min": 526,
+      "y_min": 498,
+      "x_max": 613,
+      "y_max": 599,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 41,
+      "semantic_id": 1,
+      "x_min": 407,
+      "y_min": 422,
+      "x_max": 495,
+      "y_max": 525,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 42,
+      "semantic_id": 0,
+      "x_min": 528,
+      "y_min": 500,
+      "x_max": 615,
+      "y_max": 601,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 42,
+      "semantic_id": 1,
+      "x_min": 405,
+      "y_min": 420,
+      "x_max": 492,
+      "y_max": 523,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 43,
+      "semantic_id": 0,
+      "x_min": 530,
+      "y_min": 502,
+      "x_max": 617,
+      "y_max": 603,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 43,
+      "semantic_id": 1,
+      "x_min": 403,
+      "y_min": 418,
+      "x_max": 490,
+      "y_max": 520,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 44,
+      "semantic_id": 0,
+      "x_min": 533,
+      "y_min": 505,
+      "x_max": 619,
+      "y_max": 604,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 44,
+      "semantic_id": 1,
+      "x_min": 402,
+      "y_min": 417,
+      "x_max": 487,
+      "y_max": 518,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 45,
+      "semantic_id": 0,
+      "x_min": 535,
+      "y_min": 507,
+      "x_max": 621,
+      "y_max": 605,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 45,
+      "semantic_id": 1,
+      "x_min": 400,
+      "y_min": 415,
+      "x_max": 485,
+      "y_max": 515,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 46,
+      "semantic_id": 0,
+      "x_min": 537,
+      "y_min": 510,
+      "x_max": 623,
+      "y_max": 607,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 46,
+      "semantic_id": 1,
+      "x_min": 399,
+      "y_min": 414,
+      "x_max": 482,
+      "y_max": 513,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 47,
+      "semantic_id": 0,
+      "x_min": 540,
+      "y_min": 512,
+      "x_max": 624,
+      "y_max": 608,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 47,
+      "semantic_id": 1,
+      "x_min": 397,
+      "y_min": 412,
+      "x_max": 479,
+      "y_max": 510,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 48,
+      "semantic_id": 0,
+      "x_min": 542,
+      "y_min": 515,
+      "x_max": 626,
+      "y_max": 609,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 48,
+      "semantic_id": 1,
+      "x_min": 396,
+      "y_min": 411,
+      "x_max": 476,
+      "y_max": 507,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 49,
+      "semantic_id": 0,
+      "x_min": 545,
+      "y_min": 517,
+      "x_max": 627,
+      "y_max": 611,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 49,
+      "semantic_id": 1,
+      "x_min": 395,
+      "y_min": 410,
+      "x_max": 472,
+      "y_max": 504,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 50,
+      "semantic_id": 0,
+      "x_min": 547,
+      "y_min": 520,
+      "x_max": 629,
+      "y_max": 612,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 50,
+      "semantic_id": 1,
+      "x_min": 394,
+      "y_min": 409,
+      "x_max": 469,
+      "y_max": 501,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 51,
+      "semantic_id": 0,
+      "x_min": 550,
+      "y_min": 523,
+      "x_max": 630,
+      "y_max": 613,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 51,
+      "semantic_id": 1,
+      "x_min": 393,
+      "y_min": 408,
+      "x_max": 466,
+      "y_max": 498,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 52,
+      "semantic_id": 0,
+      "x_min": 553,
+      "y_min": 526,
+      "x_max": 631,
+      "y_max": 614,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 52,
+      "semantic_id": 1,
+      "x_min": 392,
+      "y_min": 407,
+      "x_max": 462,
+      "y_max": 494,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 53,
+      "semantic_id": 0,
+      "x_min": 556,
+      "y_min": 529,
+      "x_max": 632,
+      "y_max": 614,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 53,
+      "semantic_id": 1,
+      "x_min": 391,
+      "y_min": 406,
+      "x_max": 459,
+      "y_max": 491,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 54,
+      "semantic_id": 0,
+      "x_min": 559,
+      "y_min": 532,
+      "x_max": 633,
+      "y_max": 615,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 54,
+      "semantic_id": 1,
+      "x_min": 388,
+      "y_min": 406,
+      "x_max": 456,
+      "y_max": 487,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 55,
+      "semantic_id": 0,
+      "x_min": 562,
+      "y_min": 535,
+      "x_max": 634,
+      "y_max": 616,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 55,
+      "semantic_id": 1,
+      "x_min": 384,
+      "y_min": 403,
+      "x_max": 455,
+      "y_max": 486,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 56,
+      "semantic_id": 0,
+      "x_min": 565,
+      "y_min": 537,
+      "x_max": 635,
+      "y_max": 618,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 56,
+      "semantic_id": 1,
+      "x_min": 380,
+      "y_min": 399,
+      "x_max": 454,
+      "y_max": 485,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 57,
+      "semantic_id": 0,
+      "x_min": 568,
+      "y_min": 538,
+      "x_max": 635,
+      "y_max": 621,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 57,
+      "semantic_id": 1,
+      "x_min": 377,
+      "y_min": 396,
+      "x_max": 454,
+      "y_max": 484,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 58,
+      "semantic_id": 0,
+      "x_min": 569,
+      "y_min": 538,
+      "x_max": 636,
+      "y_max": 624,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 58,
+      "semantic_id": 1,
+      "x_min": 373,
+      "y_min": 393,
+      "x_max": 453,
+      "y_max": 483,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 59,
+      "semantic_id": 0,
+      "x_min": 570,
+      "y_min": 539,
+      "x_max": 640,
+      "y_max": 627,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 59,
+      "semantic_id": 1,
+      "x_min": 369,
+      "y_min": 389,
+      "x_max": 452,
+      "y_max": 482,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 60,
+      "semantic_id": 0,
+      "x_min": 571,
+      "y_min": 540,
+      "x_max": 643,
+      "y_max": 629,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 60,
+      "semantic_id": 1,
+      "x_min": 366,
+      "y_min": 386,
+      "x_max": 451,
+      "y_max": 481,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 61,
+      "semantic_id": 0,
+      "x_min": 571,
+      "y_min": 541,
+      "x_max": 646,
+      "y_max": 632,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 61,
+      "semantic_id": 1,
+      "x_min": 363,
+      "y_min": 383,
+      "x_max": 449,
+      "y_max": 480,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 62,
+      "semantic_id": 0,
+      "x_min": 572,
+      "y_min": 543,
+      "x_max": 649,
+      "y_max": 635,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 62,
+      "semantic_id": 1,
+      "x_min": 359,
+      "y_min": 380,
+      "x_max": 448,
+      "y_max": 478,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 63,
+      "semantic_id": 0,
+      "x_min": 573,
+      "y_min": 543,
+      "x_max": 652,
+      "y_max": 637,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 63,
+      "semantic_id": 1,
+      "x_min": 356,
+      "y_min": 377,
+      "x_max": 447,
+      "y_max": 477,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 64,
+      "semantic_id": 0,
+      "x_min": 574,
+      "y_min": 545,
+      "x_max": 655,
+      "y_max": 640,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 64,
+      "semantic_id": 1,
+      "x_min": 353,
+      "y_min": 374,
+      "x_max": 445,
+      "y_max": 476,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 65,
+      "semantic_id": 0,
+      "x_min": 575,
+      "y_min": 546,
+      "x_max": 658,
+      "y_max": 642,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 65,
+      "semantic_id": 1,
+      "x_min": 350,
+      "y_min": 371,
+      "x_max": 444,
+      "y_max": 474,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 66,
+      "semantic_id": 0,
+      "x_min": 576,
+      "y_min": 548,
+      "x_max": 661,
+      "y_max": 644,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 66,
+      "semantic_id": 1,
+      "x_min": 348,
+      "y_min": 369,
+      "x_max": 442,
+      "y_max": 472,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 67,
+      "semantic_id": 0,
+      "x_min": 577,
+      "y_min": 549,
+      "x_max": 663,
+      "y_max": 646,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 67,
+      "semantic_id": 1,
+      "x_min": 345,
+      "y_min": 366,
+      "x_max": 440,
+      "y_max": 471,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 68,
+      "semantic_id": 0,
+      "x_min": 579,
+      "y_min": 551,
+      "x_max": 666,
+      "y_max": 648,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 68,
+      "semantic_id": 1,
+      "x_min": 342,
+      "y_min": 364,
+      "x_max": 438,
+      "y_max": 469,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 69,
+      "semantic_id": 0,
+      "x_min": 580,
+      "y_min": 552,
+      "x_max": 669,
+      "y_max": 650,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 69,
+      "semantic_id": 1,
+      "x_min": 340,
+      "y_min": 362,
+      "x_max": 436,
+      "y_max": 466,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 70,
+      "semantic_id": 0,
+      "x_min": 582,
+      "y_min": 554,
+      "x_max": 671,
+      "y_max": 652,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 70,
+      "semantic_id": 1,
+      "x_min": 338,
+      "y_min": 360,
+      "x_max": 433,
+      "y_max": 464,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 71,
+      "semantic_id": 0,
+      "x_min": 583,
+      "y_min": 556,
+      "x_max": 673,
+      "y_max": 654,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 71,
+      "semantic_id": 1,
+      "x_min": 336,
+      "y_min": 357,
+      "x_max": 431,
+      "y_max": 462,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 72,
+      "semantic_id": 0,
+      "x_min": 585,
+      "y_min": 558,
+      "x_max": 675,
+      "y_max": 656,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 72,
+      "semantic_id": 1,
+      "x_min": 334,
+      "y_min": 355,
+      "x_max": 428,
+      "y_max": 460,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 73,
+      "semantic_id": 0,
+      "x_min": 587,
+      "y_min": 560,
+      "x_max": 677,
+      "y_max": 657,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 73,
+      "semantic_id": 1,
+      "x_min": 332,
+      "y_min": 353,
+      "x_max": 426,
+      "y_max": 457,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 74,
+      "semantic_id": 0,
+      "x_min": 589,
+      "y_min": 562,
+      "x_max": 679,
+      "y_max": 659,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 74,
+      "semantic_id": 1,
+      "x_min": 330,
+      "y_min": 352,
+      "x_max": 423,
+      "y_max": 455,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 75,
+      "semantic_id": 0,
+      "x_min": 591,
+      "y_min": 564,
+      "x_max": 681,
+      "y_max": 661,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 75,
+      "semantic_id": 1,
+      "x_min": 329,
+      "y_min": 350,
+      "x_max": 420,
+      "y_max": 452,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 76,
+      "semantic_id": 0,
+      "x_min": 592,
+      "y_min": 566,
+      "x_max": 683,
+      "y_max": 662,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 76,
+      "semantic_id": 1,
+      "x_min": 327,
+      "y_min": 348,
+      "x_max": 417,
+      "y_max": 449,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 77,
+      "semantic_id": 0,
+      "x_min": 595,
+      "y_min": 568,
+      "x_max": 685,
+      "y_max": 663,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 77,
+      "semantic_id": 1,
+      "x_min": 325,
+      "y_min": 347,
+      "x_max": 414,
+      "y_max": 446,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 78,
+      "semantic_id": 0,
+      "x_min": 597,
+      "y_min": 571,
+      "x_max": 687,
+      "y_max": 665,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 78,
+      "semantic_id": 1,
+      "x_min": 324,
+      "y_min": 346,
+      "x_max": 411,
+      "y_max": 443,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 79,
+      "semantic_id": 0,
+      "x_min": 599,
+      "y_min": 573,
+      "x_max": 688,
+      "y_max": 666,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 79,
+      "semantic_id": 1,
+      "x_min": 323,
+      "y_min": 344,
+      "x_max": 407,
+      "y_max": 440,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 80,
+      "semantic_id": 0,
+      "x_min": 602,
+      "y_min": 575,
+      "x_max": 690,
+      "y_max": 667,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 80,
+      "semantic_id": 1,
+      "x_min": 322,
+      "y_min": 343,
+      "x_max": 404,
+      "y_max": 437,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 81,
+      "semantic_id": 0,
+      "x_min": 604,
+      "y_min": 578,
+      "x_max": 691,
+      "y_max": 668,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 81,
+      "semantic_id": 1,
+      "x_min": 321,
+      "y_min": 342,
+      "x_max": 400,
+      "y_max": 434,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 82,
+      "semantic_id": 0,
+      "x_min": 606,
+      "y_min": 580,
+      "x_max": 692,
+      "y_max": 669,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 82,
+      "semantic_id": 1,
+      "x_min": 320,
+      "y_min": 341,
+      "x_max": 396,
+      "y_max": 430,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 83,
+      "semantic_id": 0,
+      "x_min": 609,
+      "y_min": 583,
+      "x_max": 693,
+      "y_max": 670,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 83,
+      "semantic_id": 1,
+      "x_min": 318,
+      "y_min": 340,
+      "x_max": 393,
+      "y_max": 427,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 84,
+      "semantic_id": 0,
+      "x_min": 612,
+      "y_min": 586,
+      "x_max": 695,
+      "y_max": 671,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 84,
+      "semantic_id": 1,
+      "x_min": 314,
+      "y_min": 339,
+      "x_max": 391,
+      "y_max": 423,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 85,
+      "semantic_id": 0,
+      "x_min": 614,
+      "y_min": 588,
+      "x_max": 696,
+      "y_max": 672,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 85,
+      "semantic_id": 1,
+      "x_min": 310,
+      "y_min": 337,
+      "x_max": 390,
+      "y_max": 420,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 86,
+      "semantic_id": 0,
+      "x_min": 617,
+      "y_min": 591,
+      "x_max": 697,
+      "y_max": 673,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 86,
+      "semantic_id": 1,
+      "x_min": 306,
+      "y_min": 333,
+      "x_max": 389,
+      "y_max": 419,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 87,
+      "semantic_id": 0,
+      "x_min": 620,
+      "y_min": 594,
+      "x_max": 697,
+      "y_max": 674,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 87,
+      "semantic_id": 1,
+      "x_min": 302,
+      "y_min": 330,
+      "x_max": 388,
+      "y_max": 419,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 88,
+      "semantic_id": 0,
+      "x_min": 623,
+      "y_min": 597,
+      "x_max": 698,
+      "y_max": 674,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 88,
+      "semantic_id": 1,
+      "x_min": 298,
+      "y_min": 326,
+      "x_max": 387,
+      "y_max": 418,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 89,
+      "semantic_id": 0,
+      "x_min": 626,
+      "y_min": 598,
+      "x_max": 699,
+      "y_max": 677,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 89,
+      "semantic_id": 1,
+      "x_min": 295,
+      "y_min": 323,
+      "x_max": 386,
+      "y_max": 417,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 90,
+      "semantic_id": 0,
+      "x_min": 629,
+      "y_min": 599,
+      "x_max": 700,
+      "y_max": 680,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 90,
+      "semantic_id": 1,
+      "x_min": 291,
+      "y_min": 319,
+      "x_max": 385,
+      "y_max": 415,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 91,
+      "semantic_id": 0,
+      "x_min": 631,
+      "y_min": 600,
+      "x_max": 700,
+      "y_max": 683,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 91,
+      "semantic_id": 1,
+      "x_min": 288,
+      "y_min": 316,
+      "x_max": 383,
+      "y_max": 414,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 92,
+      "semantic_id": 0,
+      "x_min": 632,
+      "y_min": 601,
+      "x_max": 702,
+      "y_max": 685,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 92,
+      "semantic_id": 1,
+      "x_min": 284,
+      "y_min": 313,
+      "x_max": 382,
+      "y_max": 413,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 93,
+      "semantic_id": 0,
+      "x_min": 633,
+      "y_min": 602,
+      "x_max": 705,
+      "y_max": 688,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 93,
+      "semantic_id": 1,
+      "x_min": 281,
+      "y_min": 310,
+      "x_max": 380,
+      "y_max": 411,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 94,
+      "semantic_id": 0,
+      "x_min": 634,
+      "y_min": 603,
+      "x_max": 708,
+      "y_max": 690,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 94,
+      "semantic_id": 1,
+      "x_min": 278,
+      "y_min": 306,
+      "x_max": 378,
+      "y_max": 410,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 95,
+      "semantic_id": 0,
+      "x_min": 634,
+      "y_min": 604,
+      "x_max": 711,
+      "y_max": 693,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 95,
+      "semantic_id": 1,
+      "x_min": 275,
+      "y_min": 303,
+      "x_max": 377,
+      "y_max": 408,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 96,
+      "semantic_id": 0,
+      "x_min": 635,
+      "y_min": 605,
+      "x_max": 714,
+      "y_max": 695,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 96,
+      "semantic_id": 1,
+      "x_min": 272,
+      "y_min": 301,
+      "x_max": 375,
+      "y_max": 407,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 97,
+      "semantic_id": 0,
+      "x_min": 636,
+      "y_min": 606,
+      "x_max": 716,
+      "y_max": 697,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 97,
+      "semantic_id": 1,
+      "x_min": 270,
+      "y_min": 298,
+      "x_max": 372,
+      "y_max": 405,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 98,
+      "semantic_id": 0,
+      "x_min": 638,
+      "y_min": 607,
+      "x_max": 719,
+      "y_max": 699,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 98,
+      "semantic_id": 1,
+      "x_min": 267,
+      "y_min": 295,
+      "x_max": 370,
+      "y_max": 403,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 99,
+      "semantic_id": 0,
+      "x_min": 639,
+      "y_min": 609,
+      "x_max": 722,
+      "y_max": 701,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 99,
+      "semantic_id": 1,
+      "x_min": 265,
+      "y_min": 293,
+      "x_max": 368,
+      "y_max": 400,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 100,
+      "semantic_id": 0,
+      "x_min": 640,
+      "y_min": 610,
+      "x_max": 724,
+      "y_max": 704,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 100,
+      "semantic_id": 1,
+      "x_min": 263,
+      "y_min": 290,
+      "x_max": 366,
+      "y_max": 399,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 101,
+      "semantic_id": 0,
+      "x_min": 641,
+      "y_min": 611,
+      "x_max": 726,
+      "y_max": 706,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 101,
+      "semantic_id": 1,
+      "x_min": 260,
+      "y_min": 288,
+      "x_max": 363,
+      "y_max": 396,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 102,
+      "semantic_id": 0,
+      "x_min": 642,
+      "y_min": 613,
+      "x_max": 729,
+      "y_max": 707,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 102,
+      "semantic_id": 1,
+      "x_min": 258,
+      "y_min": 286,
+      "x_max": 360,
+      "y_max": 394,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 103,
+      "semantic_id": 0,
+      "x_min": 644,
+      "y_min": 615,
+      "x_max": 731,
+      "y_max": 710,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 103,
+      "semantic_id": 1,
+      "x_min": 256,
+      "y_min": 283,
+      "x_max": 357,
+      "y_max": 391,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 104,
+      "semantic_id": 0,
+      "x_min": 646,
+      "y_min": 616,
+      "x_max": 733,
+      "y_max": 711,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 104,
+      "semantic_id": 1,
+      "x_min": 254,
+      "y_min": 281,
+      "x_max": 354,
+      "y_max": 389,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 105,
+      "semantic_id": 0,
+      "x_min": 647,
+      "y_min": 617,
+      "x_max": 735,
+      "y_max": 713,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 105,
+      "semantic_id": 1,
+      "x_min": 253,
+      "y_min": 279,
+      "x_max": 351,
+      "y_max": 386,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 106,
+      "semantic_id": 0,
+      "x_min": 649,
+      "y_min": 619,
+      "x_max": 737,
+      "y_max": 715,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 106,
+      "semantic_id": 1,
+      "x_min": 251,
+      "y_min": 277,
+      "x_max": 348,
+      "y_max": 383,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 107,
+      "semantic_id": 0,
+      "x_min": 650,
+      "y_min": 621,
+      "x_max": 739,
+      "y_max": 716,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 107,
+      "semantic_id": 1,
+      "x_min": 249,
+      "y_min": 276,
+      "x_max": 345,
+      "y_max": 380,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 108,
+      "semantic_id": 0,
+      "x_min": 652,
+      "y_min": 623,
+      "x_max": 741,
+      "y_max": 718,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 108,
+      "semantic_id": 1,
+      "x_min": 248,
+      "y_min": 274,
+      "x_max": 341,
+      "y_max": 378,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 109,
+      "semantic_id": 0,
+      "x_min": 654,
+      "y_min": 625,
+      "x_max": 743,
+      "y_max": 719,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 109,
+      "semantic_id": 1,
+      "x_min": 247,
+      "y_min": 272,
+      "x_max": 338,
+      "y_max": 374,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 110,
+      "semantic_id": 0,
+      "x_min": 656,
+      "y_min": 627,
+      "x_max": 745,
+      "y_max": 721,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 110,
+      "semantic_id": 1,
+      "x_min": 245,
+      "y_min": 271,
+      "x_max": 334,
+      "y_max": 371,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 111,
+      "semantic_id": 0,
+      "x_min": 658,
+      "y_min": 629,
+      "x_max": 746,
+      "y_max": 722,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 111,
+      "semantic_id": 1,
+      "x_min": 244,
+      "y_min": 270,
+      "x_max": 331,
+      "y_max": 368,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 112,
+      "semantic_id": 0,
+      "x_min": 660,
+      "y_min": 631,
+      "x_max": 747,
+      "y_max": 724,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 112,
+      "semantic_id": 1,
+      "x_min": 243,
+      "y_min": 268,
+      "x_max": 327,
+      "y_max": 364,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 113,
+      "semantic_id": 0,
+      "x_min": 662,
+      "y_min": 633,
+      "x_max": 749,
+      "y_max": 725,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 113,
+      "semantic_id": 1,
+      "x_min": 242,
+      "y_min": 267,
+      "x_max": 323,
+      "y_max": 361,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 114,
+      "semantic_id": 0,
+      "x_min": 664,
+      "y_min": 635,
+      "x_max": 750,
+      "y_max": 726,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 114,
+      "semantic_id": 1,
+      "x_min": 239,
+      "y_min": 266,
+      "x_max": 319,
+      "y_max": 357,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 115,
+      "semantic_id": 0,
+      "x_min": 667,
+      "y_min": 637,
+      "x_max": 752,
+      "y_max": 727,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 115,
+      "semantic_id": 1,
+      "x_min": 234,
+      "y_min": 265,
+      "x_max": 318,
+      "y_max": 354,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 116,
+      "semantic_id": 0,
+      "x_min": 669,
+      "y_min": 639,
+      "x_max": 753,
+      "y_max": 729,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 116,
+      "semantic_id": 1,
+      "x_min": 230,
+      "y_min": 264,
+      "x_max": 317,
+      "y_max": 350,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 117,
+      "semantic_id": 0,
+      "x_min": 671,
+      "y_min": 642,
+      "x_max": 754,
+      "y_max": 730,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 117,
+      "semantic_id": 1,
+      "x_min": 226,
+      "y_min": 260,
+      "x_max": 316,
+      "y_max": 348,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 118,
+      "semantic_id": 0,
+      "x_min": 674,
+      "y_min": 644,
+      "x_max": 755,
+      "y_max": 731,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 118,
+      "semantic_id": 1,
+      "x_min": 222,
+      "y_min": 256,
+      "x_max": 314,
+      "y_max": 347,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 119,
+      "semantic_id": 0,
+      "x_min": 676,
+      "y_min": 647,
+      "x_max": 756,
+      "y_max": 732,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 119,
+      "semantic_id": 1,
+      "x_min": 219,
+      "y_min": 253,
+      "x_max": 313,
+      "y_max": 346,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 120,
+      "semantic_id": 0,
+      "x_min": 679,
+      "y_min": 649,
+      "x_max": 757,
+      "y_max": 733,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 120,
+      "semantic_id": 1,
+      "x_min": 215,
+      "y_min": 249,
+      "x_max": 312,
+      "y_max": 345,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 121,
+      "semantic_id": 0,
+      "x_min": 681,
+      "y_min": 651,
+      "x_max": 758,
+      "y_max": 733,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 121,
+      "semantic_id": 1,
+      "x_min": 211,
+      "y_min": 245,
+      "x_max": 310,
+      "y_max": 344,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 122,
+      "semantic_id": 0,
+      "x_min": 684,
+      "y_min": 654,
+      "x_max": 759,
+      "y_max": 734,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 122,
+      "semantic_id": 1,
+      "x_min": 208,
+      "y_min": 242,
+      "x_max": 309,
+      "y_max": 342,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 123,
+      "semantic_id": 0,
+      "x_min": 687,
+      "y_min": 657,
+      "x_max": 760,
+      "y_max": 735,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 123,
+      "semantic_id": 1,
+      "x_min": 204,
+      "y_min": 238,
+      "x_max": 307,
+      "y_max": 341,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 124,
+      "semantic_id": 0,
+      "x_min": 690,
+      "y_min": 659,
+      "x_max": 760,
+      "y_max": 736,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 124,
+      "semantic_id": 1,
+      "x_min": 201,
+      "y_min": 235,
+      "x_max": 305,
+      "y_max": 340,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 125,
+      "semantic_id": 0,
+      "x_min": 692,
+      "y_min": 661,
+      "x_max": 761,
+      "y_max": 737,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 125,
+      "semantic_id": 1,
+      "x_min": 198,
+      "y_min": 232,
+      "x_max": 303,
+      "y_max": 338,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 126,
+      "semantic_id": 0,
+      "x_min": 695,
+      "y_min": 662,
+      "x_max": 761,
+      "y_max": 740,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 126,
+      "semantic_id": 1,
+      "x_min": 195,
+      "y_min": 228,
+      "x_max": 301,
+      "y_max": 336,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 127,
+      "semantic_id": 0,
+      "x_min": 697,
+      "y_min": 663,
+      "x_max": 762,
+      "y_max": 742,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 127,
+      "semantic_id": 1,
+      "x_min": 192,
+      "y_min": 225,
+      "x_max": 299,
+      "y_max": 334,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 128,
+      "semantic_id": 0,
+      "x_min": 698,
+      "y_min": 664,
+      "x_max": 764,
+      "y_max": 745,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 128,
+      "semantic_id": 1,
+      "x_min": 189,
+      "y_min": 223,
+      "x_max": 297,
+      "y_max": 333,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 129,
+      "semantic_id": 0,
+      "x_min": 699,
+      "y_min": 664,
+      "x_max": 767,
+      "y_max": 747,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 129,
+      "semantic_id": 1,
+      "x_min": 187,
+      "y_min": 220,
+      "x_max": 294,
+      "y_max": 331,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 130,
+      "semantic_id": 0,
+      "x_min": 700,
+      "y_min": 665,
+      "x_max": 770,
+      "y_max": 750,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 130,
+      "semantic_id": 1,
+      "x_min": 184,
+      "y_min": 217,
+      "x_max": 292,
+      "y_max": 328,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 131,
+      "semantic_id": 0,
+      "x_min": 700,
+      "y_min": 666,
+      "x_max": 772,
+      "y_max": 752,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 131,
+      "semantic_id": 1,
+      "x_min": 181,
+      "y_min": 214,
+      "x_max": 289,
+      "y_max": 326,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 132,
+      "semantic_id": 0,
+      "x_min": 701,
+      "y_min": 667,
+      "x_max": 775,
+      "y_max": 754,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 132,
+      "semantic_id": 1,
+      "x_min": 179,
+      "y_min": 211,
+      "x_max": 287,
+      "y_max": 324,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 133,
+      "semantic_id": 0,
+      "x_min": 702,
+      "y_min": 668,
+      "x_max": 777,
+      "y_max": 756,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 133,
+      "semantic_id": 1,
+      "x_min": 176,
+      "y_min": 209,
+      "x_max": 284,
+      "y_max": 321,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 134,
+      "semantic_id": 0,
+      "x_min": 703,
+      "y_min": 669,
+      "x_max": 780,
+      "y_max": 759,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 134,
+      "semantic_id": 1,
+      "x_min": 174,
+      "y_min": 207,
+      "x_max": 281,
+      "y_max": 319,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 135,
+      "semantic_id": 0,
+      "x_min": 704,
+      "y_min": 671,
+      "x_max": 782,
+      "y_max": 761,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 135,
+      "semantic_id": 1,
+      "x_min": 172,
+      "y_min": 204,
+      "x_max": 278,
+      "y_max": 316,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 136,
+      "semantic_id": 0,
+      "x_min": 705,
+      "y_min": 672,
+      "x_max": 785,
+      "y_max": 762,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 136,
+      "semantic_id": 1,
+      "x_min": 170,
+      "y_min": 202,
+      "x_max": 275,
+      "y_max": 314,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 137,
+      "semantic_id": 0,
+      "x_min": 707,
+      "y_min": 673,
+      "x_max": 787,
+      "y_max": 764,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 137,
+      "semantic_id": 1,
+      "x_min": 168,
+      "y_min": 200,
+      "x_max": 271,
+      "y_max": 310,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 138,
+      "semantic_id": 0,
+      "x_min": 708,
+      "y_min": 674,
+      "x_max": 789,
+      "y_max": 766,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 138,
+      "semantic_id": 1,
+      "x_min": 166,
+      "y_min": 198,
+      "x_max": 268,
+      "y_max": 308,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 139,
+      "semantic_id": 0,
+      "x_min": 709,
+      "y_min": 676,
+      "x_max": 791,
+      "y_max": 768,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 139,
+      "semantic_id": 1,
+      "x_min": 164,
+      "y_min": 196,
+      "x_max": 265,
+      "y_max": 305,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 140,
+      "semantic_id": 0,
+      "x_min": 710,
+      "y_min": 677,
+      "x_max": 793,
+      "y_max": 770,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 140,
+      "semantic_id": 1,
+      "x_min": 163,
+      "y_min": 194,
+      "x_max": 261,
+      "y_max": 301,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 141,
+      "semantic_id": 0,
+      "x_min": 712,
+      "y_min": 679,
+      "x_max": 796,
+      "y_max": 772,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 141,
+      "semantic_id": 1,
+      "x_min": 161,
+      "y_min": 192,
+      "x_max": 258,
+      "y_max": 298,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 142,
+      "semantic_id": 0,
+      "x_min": 713,
+      "y_min": 680,
+      "x_max": 797,
+      "y_max": 773,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 142,
+      "semantic_id": 1,
+      "x_min": 160,
+      "y_min": 191,
+      "x_max": 254,
+      "y_max": 295,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 143,
+      "semantic_id": 0,
+      "x_min": 715,
+      "y_min": 682,
+      "x_max": 799,
+      "y_max": 775,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 143,
+      "semantic_id": 1,
+      "x_min": 158,
+      "y_min": 189,
+      "x_max": 250,
+      "y_max": 291,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 144,
+      "semantic_id": 0,
+      "x_min": 717,
+      "y_min": 683,
+      "x_max": 801,
+      "y_max": 777,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 144,
+      "semantic_id": 1,
+      "x_min": 157,
+      "y_min": 188,
+      "x_max": 246,
+      "y_max": 288,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 145,
+      "semantic_id": 0,
+      "x_min": 718,
+      "y_min": 685,
+      "x_max": 803,
+      "y_max": 779,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 145,
+      "semantic_id": 1,
+      "x_min": 156,
+      "y_min": 186,
+      "x_max": 242,
+      "y_max": 284,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 146,
+      "semantic_id": 0,
+      "x_min": 720,
+      "y_min": 687,
+      "x_max": 805,
+      "y_max": 780,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 146,
+      "semantic_id": 1,
+      "x_min": 154,
+      "y_min": 185,
+      "x_max": 238,
+      "y_max": 280,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 147,
+      "semantic_id": 0,
+      "x_min": 722,
+      "y_min": 689,
+      "x_max": 806,
+      "y_max": 781,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 147,
+      "semantic_id": 1,
+      "x_min": 149,
+      "y_min": 184,
+      "x_max": 235,
+      "y_max": 276,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 148,
+      "semantic_id": 0,
+      "x_min": 723,
+      "y_min": 690,
+      "x_max": 808,
+      "y_max": 783,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 148,
+      "semantic_id": 1,
+      "x_min": 145,
+      "y_min": 183,
+      "x_max": 234,
+      "y_max": 272,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 149,
+      "semantic_id": 0,
+      "x_min": 725,
+      "y_min": 692,
+      "x_max": 809,
+      "y_max": 784,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 149,
+      "semantic_id": 1,
+      "x_min": 141,
+      "y_min": 182,
+      "x_max": 233,
+      "y_max": 268,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 150,
+      "semantic_id": 0,
+      "x_min": 727,
+      "y_min": 694,
+      "x_max": 811,
+      "y_max": 785,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 150,
+      "semantic_id": 1,
+      "x_min": 137,
+      "y_min": 178,
+      "x_max": 231,
+      "y_max": 267,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 151,
+      "semantic_id": 0,
+      "x_min": 729,
+      "y_min": 696,
+      "x_max": 812,
+      "y_max": 787,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 151,
+      "semantic_id": 1,
+      "x_min": 133,
+      "y_min": 174,
+      "x_max": 230,
+      "y_max": 266,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 152,
+      "semantic_id": 0,
+      "x_min": 731,
+      "y_min": 698,
+      "x_max": 813,
+      "y_max": 788,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 152,
+      "semantic_id": 1,
+      "x_min": 129,
+      "y_min": 170,
+      "x_max": 228,
+      "y_max": 265,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 153,
+      "semantic_id": 0,
+      "x_min": 733,
+      "y_min": 700,
+      "x_max": 815,
+      "y_max": 789,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 153,
+      "semantic_id": 1,
+      "x_min": 125,
+      "y_min": 166,
+      "x_max": 227,
+      "y_max": 263,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 154,
+      "semantic_id": 0,
+      "x_min": 735,
+      "y_min": 702,
+      "x_max": 816,
+      "y_max": 790,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 154,
+      "semantic_id": 1,
+      "x_min": 121,
+      "y_min": 163,
+      "x_max": 225,
+      "y_max": 262,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 155,
+      "semantic_id": 0,
+      "x_min": 738,
+      "y_min": 704,
+      "x_max": 817,
+      "y_max": 791,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 155,
+      "semantic_id": 1,
+      "x_min": 117,
+      "y_min": 159,
+      "x_max": 223,
+      "y_max": 260,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 156,
+      "semantic_id": 0,
+      "x_min": 740,
+      "y_min": 707,
+      "x_max": 818,
+      "y_max": 792,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 156,
+      "semantic_id": 1,
+      "x_min": 113,
+      "y_min": 155,
+      "x_max": 222,
+      "y_max": 259,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 157,
+      "semantic_id": 0,
+      "x_min": 742,
+      "y_min": 709,
+      "x_max": 819,
+      "y_max": 793,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 157,
+      "semantic_id": 1,
+      "x_min": 110,
+      "y_min": 152,
+      "x_max": 220,
+      "y_max": 257,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 158,
+      "semantic_id": 0,
+      "x_min": 744,
+      "y_min": 711,
+      "x_max": 820,
+      "y_max": 794,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 158,
+      "semantic_id": 1,
+      "x_min": 107,
+      "y_min": 148,
+      "x_max": 218,
+      "y_max": 255,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 159,
+      "semantic_id": 0,
+      "x_min": 747,
+      "y_min": 713,
+      "x_max": 821,
+      "y_max": 795,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 159,
+      "semantic_id": 1,
+      "x_min": 103,
+      "y_min": 145,
+      "x_max": 215,
+      "y_max": 254,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 160,
+      "semantic_id": 0,
+      "x_min": 749,
+      "y_min": 715,
+      "x_max": 822,
+      "y_max": 795,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 160,
+      "semantic_id": 1,
+      "x_min": 100,
+      "y_min": 141,
+      "x_max": 213,
+      "y_max": 251,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 161,
+      "semantic_id": 0,
+      "x_min": 751,
+      "y_min": 718,
+      "x_max": 823,
+      "y_max": 796,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 161,
+      "semantic_id": 1,
+      "x_min": 97,
+      "y_min": 138,
+      "x_max": 211,
+      "y_max": 249,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 162,
+      "semantic_id": 0,
+      "x_min": 754,
+      "y_min": 720,
+      "x_max": 824,
+      "y_max": 797,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 162,
+      "semantic_id": 1,
+      "x_min": 93,
+      "y_min": 135,
+      "x_max": 208,
+      "y_max": 247,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 163,
+      "semantic_id": 0,
+      "x_min": 756,
+      "y_min": 722,
+      "x_max": 824,
+      "y_max": 798,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 163,
+      "semantic_id": 1,
+      "x_min": 91,
+      "y_min": 132,
+      "x_max": 206,
+      "y_max": 245,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 164,
+      "semantic_id": 0,
+      "x_min": 759,
+      "y_min": 723,
+      "x_max": 825,
+      "y_max": 800,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 164,
+      "semantic_id": 1,
+      "x_min": 88,
+      "y_min": 129,
+      "x_max": 203,
+      "y_max": 243,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 165,
+      "semantic_id": 0,
+      "x_min": 761,
+      "y_min": 724,
+      "x_max": 826,
+      "y_max": 803,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 165,
+      "semantic_id": 1,
+      "x_min": 85,
+      "y_min": 126,
+      "x_max": 201,
+      "y_max": 240,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 166,
+      "semantic_id": 0,
+      "x_min": 763,
+      "y_min": 725,
+      "x_max": 826,
+      "y_max": 805,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 166,
+      "semantic_id": 1,
+      "x_min": 82,
+      "y_min": 124,
+      "x_max": 198,
+      "y_max": 237,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 167,
+      "semantic_id": 0,
+      "x_min": 763,
+      "y_min": 726,
+      "x_max": 829,
+      "y_max": 807,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 167,
+      "semantic_id": 1,
+      "x_min": 80,
+      "y_min": 121,
+      "x_max": 194,
+      "y_max": 235,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 168,
+      "semantic_id": 0,
+      "x_min": 764,
+      "y_min": 727,
+      "x_max": 832,
+      "y_max": 809,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 168,
+      "semantic_id": 1,
+      "x_min": 77,
+      "y_min": 119,
+      "x_max": 192,
+      "y_max": 232,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 169,
+      "semantic_id": 0,
+      "x_min": 765,
+      "y_min": 727,
+      "x_max": 834,
+      "y_max": 811,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 169,
+      "semantic_id": 1,
+      "x_min": 75,
+      "y_min": 116,
+      "x_max": 189,
+      "y_max": 229,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 170,
+      "semantic_id": 0,
+      "x_min": 765,
+      "y_min": 728,
+      "x_max": 837,
+      "y_max": 813,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 170,
+      "semantic_id": 1,
+      "x_min": 73,
+      "y_min": 113,
+      "x_max": 185,
+      "y_max": 226,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 171,
+      "semantic_id": 0,
+      "x_min": 766,
+      "y_min": 730,
+      "x_max": 839,
+      "y_max": 815,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 171,
+      "semantic_id": 1,
+      "x_min": 70,
+      "y_min": 111,
+      "x_max": 182,
+      "y_max": 223,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 172,
+      "semantic_id": 0,
+      "x_min": 767,
+      "y_min": 731,
+      "x_max": 842,
+      "y_max": 817,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 172,
+      "semantic_id": 1,
+      "x_min": 68,
+      "y_min": 109,
+      "x_max": 179,
+      "y_max": 220,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 173,
+      "semantic_id": 0,
+      "x_min": 768,
+      "y_min": 732,
+      "x_max": 844,
+      "y_max": 819,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 173,
+      "semantic_id": 1,
+      "x_min": 66,
+      "y_min": 107,
+      "x_max": 175,
+      "y_max": 217,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 174,
+      "semantic_id": 0,
+      "x_min": 769,
+      "y_min": 733,
+      "x_max": 846,
+      "y_max": 821,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 174,
+      "semantic_id": 1,
+      "x_min": 64,
+      "y_min": 105,
+      "x_max": 171,
+      "y_max": 214,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 175,
+      "semantic_id": 0,
+      "x_min": 770,
+      "y_min": 734,
+      "x_max": 848,
+      "y_max": 823,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 175,
+      "semantic_id": 1,
+      "x_min": 62,
+      "y_min": 103,
+      "x_max": 168,
+      "y_max": 210,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 176,
+      "semantic_id": 0,
+      "x_min": 771,
+      "y_min": 735,
+      "x_max": 851,
+      "y_max": 825,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 176,
+      "semantic_id": 1,
+      "x_min": 60,
+      "y_min": 101,
+      "x_max": 164,
+      "y_max": 207,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 177,
+      "semantic_id": 0,
+      "x_min": 772,
+      "y_min": 737,
+      "x_max": 853,
+      "y_max": 826,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 177,
+      "semantic_id": 1,
+      "x_min": 59,
+      "y_min": 99,
+      "x_max": 160,
+      "y_max": 203,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 178,
+      "semantic_id": 0,
+      "x_min": 773,
+      "y_min": 738,
+      "x_max": 855,
+      "y_max": 828,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 178,
+      "semantic_id": 1,
+      "x_min": 57,
+      "y_min": 98,
+      "x_max": 156,
+      "y_max": 199,
+      "occlusion_ratio": 0.0
+    }
+  ],
+  [
+    {
+      "frame": 179,
+      "semantic_id": 0,
+      "x_min": 774,
+      "y_min": 740,
+      "x_max": 857,
+      "y_max": 830,
+      "occlusion_ratio": 0.0
+    },
+    {
+      "frame": 179,
+      "semantic_id": 1,
+      "x_min": 55,
+      "y_min": 96,
+      "x_max": 152,
+      "y_max": 195,
+      "occlusion_ratio": 0.0
+    }
+  ]
+]

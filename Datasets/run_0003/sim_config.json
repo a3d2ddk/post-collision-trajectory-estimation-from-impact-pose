@@ -1,0 +1,104 @@
+{
+  "simulation_app": {
+    "headless": false
+  },
+  "world": {
+    "stage_units_in_meters": 1.0
+  },
+  "simulation_params": {
+    "num_images": 180,
+    "fps": 30,
+    "random_sampling": false
+  },
+  "physics": {
+    "sat_angular_vel_deg_s": [0.0, 0.0, 0.0]
+  },
+  "environment": {
+    "alpha":{
+      "prim_path": "/World/Alpha",
+      "name": "alpha",
+      "position": [0.0, 5.0, 0.0],
+      "orientation_euler_deg": [0.0, 90.0, 0.0],
+      "size": 0.5,
+      "mass": 10.0,
+      "density": 100.0,
+      "linear_velocity_m_s": [0.0, -5.0, 0.0],
+      "angular_velocity_rad_s": [0.0, 0.0, 0.0],
+      "static_friction": 0.0,
+      "dynamic_friction": 0.0,
+      "restitution": 0.1,
+      "prim_path_physics_material": "/World/Physics_Materials/AlphaMaterial",
+      "texture_path": "/opt/nvidia-robotics/projects/CV_project/assets/cubesat_realistic_alpha.png",
+      "usd_path": "/opt/nvidia-robotics/projects/CV_project/assets/dice_new.usd"
+    },
+    "beta":{
+      "prim_path": "/World/Beta",
+      "name": "beta",
+      "position": [0.0, -5.0, 0.0],
+      "orientation_euler_deg": [35.0, 130.0, 0.0],
+      "size": 0.5,
+      "mass": 10.0,
+      "density": 100.0,
+      "linear_velocity_m_s": [0.0, 5.0, 0.0],
+      "angular_velocity_rad_s": [0.0, 0.0, 0.0],
+      "static_friction": 0.0,
+      "dynamic_friction": 0.0,
+      "restitution": 0.1,
+      "prim_path_physics_material": "/World/Physics_Materials/BetaMaterial",
+      "texture_path": "/opt/nvidia-robotics/projects/CV_project/assets/cubesat_realistic_beta.png",
+      "usd_path": "/opt/nvidia-robotics/projects/CV_project/assets/dice_new.usd"
+    }
+  },
+  "output": {
+    "folder_name": "Datasets/run_0003",
+    "params_file_name": "camera_params.json",
+    "sim_config": "sim_config.json"
+  },
+  "motion_blur_pathtracing": {
+    "enabled": false,
+    "pt_subsamples": 4
+  },
+  "camera": {
+    "width": 1024,
+    "height": 1024,
+    "focal_length_cm": 0.36,
+    "pixel_size_mm": 0.003,
+    "f_stop": 0.0,
+    "focus_distance_m": 80.0,
+    "clipping_range_near": 0.05,
+    "clipping_range_far": 100000.0,
+    "initial_orientation_euler_deg": [0, 90, 0],
+    "prim_path": "/World/camera",
+    "frequency": 30
+  },
+  "lighting": {
+    "dome_lights":
+      {
+        "name": "DomeLight",
+        "prim_path": "/World/DomeLight",
+        "texture_file_path": "/opt/nvidia-robotics/projects/STTR/STTR_simulator/assets/usd_files_ref/RenderCrate-HDRI_Orbital_66_4K.exr"
+      },
+    "distant_lights": [
+      {
+        "name": "DistantLightMain",
+        "prim_path": "/World/DistantLightMain",
+        "intensity": 1.0,
+        "clr_temp": 5500,
+        "exposure": 10.0,
+        "angle": 0.59,
+        "rot_xyz_deg": [60, -20, 90]
+      },
+      {
+        "name": "DistantLightSoft",
+        "prim_path": "/World/DistantLightSoft",
+        "intensity": 1.0,
+        "clr_temp": 5900,
+        "exposure": 10.0,
+        "angle": 0.59,
+        "rot_xyz_deg": [-120, -20, 90]
+      } 
+    ]
+  }
+}
+
+
