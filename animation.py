@@ -14,7 +14,7 @@ SAVE_GIF = True
 FPS = 15
 CUBE_SIZE = 1.0  # 1 meter
 TRAIL_LENGTH = 80
-RUN_ID = sys.argv[1] if len(sys.argv) > 1 else "run_0001"
+RUN_ID = sys.argv[1] if len(sys.argv) > 1 else "run_0002"
 
 def get_cube_edges(center, quat, size):
     """Calculate the 3D coordinates of a cube's edges."""

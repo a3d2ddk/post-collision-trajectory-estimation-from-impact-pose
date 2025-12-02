@@ -12,7 +12,7 @@ def main():
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     print(f"Using device: {device}")
     
-    dataset_path = "Datasets/run_0001"
+    dataset_path = "Datasets/run_0002"
     
     # Training parameters
     num_epochs = 1000

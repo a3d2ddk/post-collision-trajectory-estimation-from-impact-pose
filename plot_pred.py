@@ -12,7 +12,7 @@ import os
 if len(sys.argv) > 1:
     RUN_ID = sys.argv[1]
 else:
-    RUN_ID = "run_0001"
+    RUN_ID = "run_0002"
 
 # Cube size for visualization (Slightly smaller than 1m to avoid visual clutter in trajectory plot)
 VIS_CUBE_SIZE = 0.6 
